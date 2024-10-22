@@ -24,7 +24,7 @@ The application allows users to:
 ## Demo
 
 You can view the deployed application here:  
-[Live Demo](https://66e332b6c19b060f2778a9df--mernbookssearch.netlify.app/)
+[Live Demo](https://mern-book-search-nqrw.onrender.com/)
 
 ## Technologies Used
 
@@ -67,4 +67,4 @@ Ensure you have **Node.js** and **npm** installed on your machine. You'll also n
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JackFadlovich/mern-book-search.git
+   git clonehttps://github.com/JackFadlovich/mern-book-search.git
